@@ -1,0 +1,16 @@
+.Navbar{
+  background-color: #EFEAD8;
+}
+.Navbar__list{
+    display: flex;
+    justify-content: space-evenly;
+    font-weight: 900;
+    margin: 0;
+    padding: 10px;
+    list-style-type: none;
+
+}
+.Navbar__list-link{
+    text-decoration: none;
+    color: #6D8B74;
+}
