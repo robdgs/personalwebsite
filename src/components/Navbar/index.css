@@ -1,6 +1,4 @@
-.Navbar{
-  background-color: #EFEAD8;
-}
+
 .Navbar__list{
     display: flex;
     justify-content: space-evenly;
@@ -12,5 +10,5 @@
 }
 .Navbar__list-link{
     text-decoration: none;
-    color: #6D8B74;
+    color: #EFEAD8;
 }
