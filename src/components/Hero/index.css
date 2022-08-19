@@ -1,5 +1,5 @@
 .Hero {
-  height: 400px;
+
 }
 .Hero__spinner {
   display: block;
@@ -73,3 +73,25 @@
   border-radius: 100%;
 }
 
+.Hero{
+  display: flex;
+  flex-direction: row;
+}
+
+.Hero__text{
+  color: #efead8;
+  margin-top: 80px;
+}
+
+.Hero__text-underline{
+text-decoration:underline;
+}
+
+@media only screen and (max-width: 760px) {
+  .Hero{
+  overflow-x: hidden;
+    flex-direction: column;
+    margin-left: 10px;
+    margin-right:24px;
+  }
+}
