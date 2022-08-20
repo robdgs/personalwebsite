@@ -1,6 +1,6 @@
 .Overview {
-  background-color: #efead8;
-  color: #5f7161;
+  background-color:  #908575 ;
+  color: #efead8;
   display: flex;
   flex-direction: row;
   
@@ -146,7 +146,7 @@
 }
 
 #shadow {
-  height: 8px;
+  height: 5px;
   width: 150px;
   border-radius: 50%;
   margin-top: -2.5px;

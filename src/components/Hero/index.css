@@ -94,4 +94,16 @@ text-decoration:underline;
     margin-left: 10px;
     margin-right:24px;
   }
+  .Hero__spinner-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+    
+  }
+  .Hero__img-container img{
+    padding-right: 23px;
+    padding-bottom: 24px;
+  }
 }
